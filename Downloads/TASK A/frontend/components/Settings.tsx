@@ -68,7 +68,7 @@ const Settings = () => {
                   </Device>
                   <Device>
                     <DeviceIcon><FaApple /></DeviceIcon>
-                    <DeviceName>Mia's MacBook Pro</DeviceName>
+                    <DeviceName>Mia MacBook Pro</DeviceName>
                     <Location><FaFlag /> Ninh Binh, Vietnam</Location>
                     <Action>Current session</Action>
                     <RemoveButton>Remove</RemoveButton>
@@ -82,7 +82,7 @@ const Settings = () => {
                   </Device>
                   <Device>
                     <DeviceIcon><FaApple /></DeviceIcon>
-                    <DeviceName>Mia's MacBook Pro</DeviceName>
+                    <DeviceName>Mia MacBook Pro</DeviceName>
                     <Location><FaFlag /> Mexico City, Mexico</Location>
                     <Action>1 month ago</Action>
                     <RemoveButton>Remove</RemoveButton>
